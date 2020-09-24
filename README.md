@@ -1,3 +1,3 @@
 # docker-kubectl
 
-KUBECTL_VERSION = v1.14.3
+KUBECTL_VERSION = v1.15.12
